@@ -17,6 +17,9 @@
   <img alt="calendario da copa" src=".github/preview.png" width="100%">
 </p>
 
+## Link do projeto
+🔗 [Clique aqui para acessar](https://pedronovais.github.io/copa-2022/)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
